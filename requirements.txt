@@ -1,0 +1,23 @@
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+streamlit
+pandas
+matplotlib
+seaborn
+pygwalker
+jupyterlab
+tiktoken
+tabulate
+python-dotenv
+langchain-google-genai
+pinecone-client 
+scikit-learn
+ruff
+youtube_transcript_api
+transformers
+textsum
+langdetect
+deep_translator
+-U openai-whisper
