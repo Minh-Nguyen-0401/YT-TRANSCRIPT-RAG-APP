@@ -1,3 +1,5 @@
+  [![HitCount](https://hits.dwyl.com/Minh-Nguyen-0401/YT-TRANSCRIPT-RAG-APPLICATION.svg?style=flat-square)](http://hits.dwyl.com/Minh-Nguyen-0401/YT-TRANSCRIPT-RAG-APPLICATION)
+
 # YT-TRANSCRIPT-RAG-APPLICATION
 
 ## Introduction and Description
