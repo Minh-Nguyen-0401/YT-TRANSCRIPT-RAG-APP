@@ -1,4 +1,5 @@
   [![HitCount](https://hits.dwyl.com/Minh-Nguyen-0401/YT-TRANSCRIPT-RAG-APPLICATION.svg?style=flat-square)](http://hits.dwyl.com/Minh-Nguyen-0401/YT-TRANSCRIPT-RAG-APPLICATION)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # YT-TRANSCRIPT-RAG-APPLICATION
 
