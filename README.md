@@ -4,7 +4,7 @@
 # YT-TRANSCRIPT-RAG-APPLICATION
 
 ## Introduction and Description
-A Retrieval-Augmented Generation (RAG) application leveraging `Github API (for transcription storage)`, `Pinecone (for vectorization prior to storage)`, and `OpenAI's API` along with a pre-trained version of `LED model` and `Clustering` techniques to query or summarize YouTube video content. It features two agents: 
+A Retrieval-Augmented Generation (RAG) application leveraging `Github API` (for transcription storage), `Pinecone` (for vectorization prior to storage), `OpenAI's API`, and `TavilySearch` (for websearch flow) along with a pre-trained version of `LED model` and `Clustering` techniques to query or summarize YouTube video content. It features two agents: 
 - **`Agent 1`**: Answering questions based on the video transcript (context-based)
 - **`Agent 2`**: Generating dedicated summaries of the video content
 
