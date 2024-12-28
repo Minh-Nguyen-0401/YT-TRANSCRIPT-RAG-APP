@@ -6,6 +6,6 @@
 ## Introduction and Description
 A Retrieval-Augmented Generation (RAG) application leveraging `Github API` (for transcription storage), `Pinecone` (for vectorization prior to storage), `OpenAI's API`, and `TavilySearch` (for websearch flow) along with a pre-trained version of `LED model` and `Clustering` techniques to query or summarize YouTube video content. It features two agents: 
 - **`Agent 1`**: Answering questions based on the video transcript (context-based)
-- **`Agent 2`**: Generating dedicated summaries of the video content
+- **`Agent 2`**: Generating dedicated summaries of the video content (display in both text and `mindmap-graphviz` format)
 
 <i>(Planning to implement more functions for this application before deploying it on streamlit/flask. Detailed description to be updated ...)</i>
